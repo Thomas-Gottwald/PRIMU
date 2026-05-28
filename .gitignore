@@ -1,0 +1,11 @@
+*.pyc
+
+data/*
+output/*
+
+3dgs/submodules/diff-gaussian-rasterization_bp/build*
+3dgs/submodules/diff-gaussian-rasterization_bp/diff_gaussian_rasterization_bp.egg-info*
+3dgs/submodules/fused-ssim/build*
+3dgs/submodules/fused-ssim/fused_ssim.egg-info*
+3dgs/submodules/simple-knn/build*
+3dgs/submodules/simple-knn/simple_knn.egg-info*
